@@ -1,0 +1,44 @@
+.container {
+    background-color: chocolate;
+}
+h1,h2 {
+    background-color: chartreuse;
+    color: fuchsia;
+}
+button {
+    color: crimson;
+    border: 5px solid blue;
+}
+/* Link {
+    background-color: bisque;
+} */
+#header {
+    background-color: aqua;
+    color: brown;
+
+}
+#links {
+    background-color: rgb(192, 233, 122);
+    height: 60px;
+}
+.link {
+    color: crimson;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+img {
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: flex-start;
+}
+table {
+    border: 5px solid rgb(111, 0, 255);
+}
+th {
+    color: chartreuse;
+}
+input[type="text"]{
+
+    color: rgb(233, 150, 27);
+}
